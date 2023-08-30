@@ -1,7 +1,9 @@
 ## B. Programing
 ## C. Data management
 
-## Look all the results please run:
+First please clone the repository
+
+## To look all the results please run:
 ```
 poetry install
 poetry shell
@@ -12,7 +14,7 @@ poetry shell
 
 ### Upload to the db the list with films
 
-### When DB ready run from the terminal:
+### When DB is ready run from the terminal:
 ```python run.py```
 
 #### Task 1 - results will be printed in the command line

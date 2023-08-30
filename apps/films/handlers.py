@@ -99,5 +99,4 @@ class FilmsHandler:
         self._save_data_in_the_db(data=data)
 
 
-
 films_handler = FilmsHandler()

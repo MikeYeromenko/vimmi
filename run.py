@@ -26,7 +26,7 @@ print(films_handler.get_average_imb_rating_top_10())
 print(films_handler.get_top50_films_ranges())
 
 # Task 3 - NOTHING TO PRINT, please look at results_group_by_10.csv file
-films_handler.get_top50_films_ranges()
+films_handler.group_by_ten_and_export_to_csv()
 
 # Task 4 - saving to the DB
 films_handler.get_data_and_save()
