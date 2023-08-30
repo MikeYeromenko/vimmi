@@ -1,0 +1,6 @@
+class NoDataException(Exception):
+    ...
+
+
+class ValidationError(Exception):
+    ...
